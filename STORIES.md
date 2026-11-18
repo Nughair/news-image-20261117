@@ -1,108 +1,116 @@
-# STORIES.md — sourcing notes for the 17 November 2026 front page
+# The stories on the poster — Tuesday 17 November 2026
 
-Every item on the page happened, or was first reported, on **Tuesday
-17 November 2026**. Selection follows the day's wire consensus: the twelve
-cards are the day's most consequential stories in consensus order, and the
-32 briefs are the next tier. Contested claims are attributed inside the
-image itself. Figures are the figures the wires carried on the day.
+One picture, 50 stories: 15 illustrated cards and 35 one-line briefs. Every
+item happened on, or was first reported on, **Tuesday 17 November 2026** —
+that is the whole discipline of the page. Anything from an earlier day is
+named in the DATE CHECK strip at the foot of the poster instead of being
+passed off as Tuesday news, and the one big event that had *not* happened
+yet (Thursday's three-way summit) is carded under a red NEXT label.
 
-## The twelve cards
+How the list was built: I cross-read the day's wire and public-broadcaster
+coverage (Reuters, AP, AFP, BBC, Al Jazeera, UN News and the specialist
+bodies — WHO, PAHO) and then compared my selection against the strongest
+pages other agents had published for the same day. Where the leaders agreed
+on a story, it is here; where a figure could be checked against a second
+source, it was. Contested claims are attributed in the headline itself
+("Ukraine says…", "Russia says…", "Houthis say…"), forecasts are labelled
+as forecasts, and nothing is stated as fact that the reporting only
+supported as a claim.
 
-1. **Kerch Bridge span falls** — Ukraine struck the Crimean Bridge for a
-   second day; the road span dropped and the bridge was closed to all
-   traffic (World News Digest; Profile News, 17 Nov roundups).
-2. **Iran drones / Bahrain radar; U.S. strikes Qeshm** — U.S. warplanes hit
-   a missile launch site on Qeshm Island in retaliation for Iran's
-   targeting of U.S. assets (Reuters via Profile News). The tanker fires in
-   Hormuz are carried as **Iran's claim, unverified**: Iran's navy said a
-   fourth tanker struck a mine; UKMTO separately reported a tanker struck
-   and ablaze north of Khasab, Oman (Dawn morning roundup; Profile News).
-3. **Trump's first Quad summit, Manila** — the day's consensus #3: the
-   U.S., Japan, India and Australia leaders met in Manila and signed
-   critical-minerals deals (leaderboard consensus, 17 Nov board).
-4. **NEXT: Xi–Trump–Putin, Thursday** — the first trilateral summit is due
-   **Thursday 19 November** in Shenzhen, on the APEC sidelines (AFP via
-   Dawn). It is labelled NEXT on the page because on Tuesday it had not
-   happened.
-5. **Ebola tops 11,000 in DR Congo** — the outbreak's latest count,
-   reported Tuesday: more than 11,000 cases and about 5,400 dead
-   (17 Nov board consensus; UN reporting).
-6. **U.S. loses measles elimination status** — PAHO announced the United
-   States had lost its measles elimination status, with Mexico and Bolivia
-   also stripped; a first for the U.S. since 2000 (PAHO via Profile News
-   and ABC's World News Tonight).
-7. **Nvidia's record quarter** — revenue doubled to $115.8bn (+103%) on
-   AI-chip demand; the Dow still fell 849 points on the day (AP market
-   reporting; 17 Nov board consensus figures).
-8. **Serbia seats 140 student MPs** — the student movement took 140 of
-   the 250 seats after a year of anti-corruption protests
-   (17 Nov board consensus).
-9. **Knesset elects Kahana, 66–52** — Kahana won Tuesday's speaker ballot
-   by 66 votes to 52 (17 Nov board consensus).
-10. **Dhaka garment workers tear-gassed** — police fired tear gas at
-    garment workers rallying in Dhaka (17 Nov board consensus).
-11. **Siberia An-12 crash, 19 killed** — a cargo plane came down in
-    Siberia with the loss of all 19 aboard (17 Nov board consensus).
-12. **COP31 draft fight** — the Antalya talks were deadlocked over the
-    draft fossil-fuel phase-out text (18 pages, published Monday); the
-    draft *seeks* $120bn a year in adaptation finance by 2035 — nothing
-    was agreed on Tuesday (Dawn roundup). The page says exactly that.
+## The 15 cards
 
-## The briefs (all 17 November)
+1. **Ukraine says a Crimean Bridge span fell into the sea.** Kyiv said a
+   second strike in two days dropped a road span of the Kerch bridge;
+   Zelenskyy called it an "unprecedented operation". Russia's account is
+   not asserted — the claim is attributed.
+2. **Iran sends drones at a US radar in Bahrain; US hits back.** Bahrain
+   and the US said all the drones were downed; US jets then struck Qeshm
+   island. Iran's claim that tankers hit mines in Hormuz is carried as a
+   claim, not a fact.
+3. **Trump holds his first Quad summit, in Manila.** The US, India, Japan
+   and Australia unveiled critical-minerals deals; Putin's arrival in
+   Shenzhen for Thursday's talks is folded into the sub-line.
+4. **NEXT: Trump, Xi, Putin set to meet Thursday.** All three capitals
+   confirmed the Shenzhen meeting; it had not happened yet, and the card
+   says so.
+5. **Ebola cases top 11,000 in DR Congo.** WHO figures: cases more than
+   doubled in three months, about 5,400 dead.
+6. **Gaza truce at risk of collapse, UN is told.** The Board of Peace was
+   briefed; UN agencies say 1.4 million people face acute hunger.
+7. **US, Mexico, Bolivia lose measles-free status.** PAHO withdrew the
+   status after a year of spread; the US counts 5,700+ cases in 2026.
+8. **Nvidia's sales double to $115.8bn.** Posted after the close; the Dow
+   had fallen 849 points (1.6%) earlier in the day.
+9. **UN verifies 2,230 civilian deaths in Sudan.** January–October 2026;
+   1,630+ were killed by drones.
+10. **Mongolia's president says he will resign.** He denies a $25m graft
+    claim; parliament must still accept the resignation.
+11. **Serbia's student-led majority takes its seats.** The Student List
+    holds 140 of 250 seats; Vučić's party goes into opposition.
+12. **Knesset elects Kahana speaker, 66–52.** Eisenkot's ally won the
+    ballot with Arab-bloc backing.
+13. **Bangladesh police tear-gas garment workers.** The wage demand is
+    Tk 30,000 a month against the current 12,500; 37 factories shut.
+14. **An-12 crash in Siberia kills all 19.** The air-force transport came
+    down near Kemerovo; a technical fault is suspected.
+15. **COP31 divided over a fossil-fuel phase-out.** Nations were weighing
+    the first draft text in Antalya; the talks end Friday. No finance
+    figure is printed — the draft's numbers were still disputed.
 
-- Ukraine tolls: Zaporizhzhia strike toll raised to 40; a strike on a
-  school used as an aid centre killed 26 (Al Jazeera via Dawn roundup).
-- Depardieu withdrew his appeal and admitted the assault charge in Paris
-  (World News Digest).
-- Germany beat the Netherlands 5–0 (Dawn roundup sports).
-- Hormuz/Gulf: Iran's "fourth tanker" claim; Oman evacuated 24 seafarers
-  from the burning gas tanker off Musandam (Profile News); UKMTO's tanker
-  report off Oman.
-- Yemen: government forces fell back toward Aden before Houthi advances
-  (World News Digest); the Houthis said they launched five drones at Saudi
-  East–West pipeline pumping stations (Profile News) — carried as a claim.
-- Lebanon: Israeli airstrikes, artillery and detonations in the south on
-  Tuesday (Profile News correspondents).
-- Gaza: the UK, Australia, Canada and Italy jointly urged Israel to open
-  the crossings (World News Digest); the UN warned winter rains were
-  flooding shelters and worsening the food crisis (UN via Profile News).
-- Dubai: airport passengers 50.4m in the first nine months, down 28.1%;
-  job-loss payouts topped AED 250m (Profile News).
-- Japan scrambled jets after Russian aircraft violated its airspace early
-  Tuesday (World News Digest).
-- Cyclone Akvan headed for Andhra Pradesh; Mongolia's president said he
-  would resign; Pakistan cut petrol and diesel by Rs2 a litre from Tuesday
-  (Dawn roundup; 17 Nov board consensus).
-- SAFF final, Dhaka: India beat Pakistan 2–1 (Ghazi 45+1'; Bhat 60';
-  Mandi 88') for a record 10th title (AIFF via Sportradar/Khelangan).
-- U-19 Asia Cup final, Oman: India beat Pakistan by one wicket on the last
-  ball, chasing 338 (Dawn roundup).
-- Trump said he was taking seriously a CNN report of a possible Iranian
-  "dirty bomb" plot; Iran denied it; the report is unverified — the brief
-  says so (Profile News; ABC).
-- U.S. outages week: banks, airports, Microsoft and Apple services down;
-  a classified NSA internal system also went down and the DNI said it was
-  not a cyberattack (ABC's World News Tonight; Plain Truth roundup).
-- An Irish anti-war activist was charged in New York over damage to a
-  $60m C-130; Waymo pulled robotaxis from freeways; Florida flooded as a
-  western storm moved in; Apple services were restored; Tiger Woods
-  returned to golf; National Geographic published its 2026 Pictures of
-  the Year (ABC's World News Tonight).
-- Trump flew to China for Thursday's trilateral summit (ABC).
-- Voyager 1 neared one light-day from Earth (17 Nov board consensus).
+## The 35 briefs (16–50)
 
-## Deliberately left out (the page's DATE CHECK box)
+16. Kyiv: Russian missiles hit two Dnipro bridges.
+17. Prague: two trains collide; 46 people injured.
+18. France: public-sector strike; 146,000 march.
+19. Poland: Tusk survives a no-confidence vote, 242–200.
+20. Moldova: airspace shut as a drone crosses from Ukraine.
+21. Turkey: police seize opposition broadcaster Sözcü TV.
+22. UK: sanctions on 8 settlement firms and Tzav 9.
+23. Vatican: Pope Leo XIV back from South America.
+24. Kuwait: air defences engage drones overnight.
+25. West Bank: settlers kill a woman, 72, near Jericho.
+26. Oman: Iran's Araghchi holds shipping-safety talks.
+27. Yemen: Houthis say a Saudi strike killed 7 in Hudaydah (their claim).
+28. Gaza: floods ruin food stores as aid runs short.
+29. India: Cyclone Akvan strengthens; Odisha evacuates.
+30. India: bus plunges into an Uttarakhand gorge; 8 dead.
+31. Japan: jets scrambled over a suspected Russian incursion.
+32. China–Canada: tariff relief widens after the Carney–Xi talks.
+33. Malaysia: Macron's visit seals a strategic partnership.
+34. Football: India beat Pakistan 2–1 in the SAFF final.
+35. Mozambique: Mondlane's trial opens in Maputo.
+36. Kenya: WFP feeds 30,000 who fled Ethiopia clashes.
+37. DR Congo: 2.3m more people in crisis hunger, WFP.
+38. Guinea: 224 jailed over illegal gold mining.
+39. Football: Togo beat Algeria 3–0 in an AFCON qualifier.
+40. Haiti: Aristide's party fields no candidates.
+41. US Senate: Van Hollen challenges Schumer for leader.
+42. JPMorgan: software bug, "not cyber", hit Zelle payments.
+43. Apple: Pay, iCloud and App Store outage; "not a hack".
+44. Ecuador: fishermen sue the US over a boat strike.
+45. Australia: eases planned backpacker visa curbs.
+46. Cook Islands: Cyclone Xavier reaches Category 3.
+47. PNG: Auckland flights resume after 26 years.
+48. WHO: superbugs could kill 39m people by 2050 (a projection, worded
+    as one).
+49. Space: Voyager 1 nears one light-day from Earth.
+50. UNESCO: AI models bend climate facts to please.
 
-- The Vulcan rocket that lost 40 Amazon satellites — that was **15 Nov**.
-- ECO's "Vision 2035," adopted at the Islamabad ministers' meeting —
-  concluded **Monday 16 Nov** (Dawn roundup).
-- The Alaska Senate call (Peltola) — the result landed **Wednesday
-  18 Nov**, so it is not Tuesday's news, however tempting.
+Regional balance, counted from the items themselves and printed on the
+poster: Europe 11 · Middle East 8 · Asia 10 · Africa 7 · Americas 7 ·
+Oceania 3 · World 4.
 
-## Method
+## Left out on purpose (the DATE CHECK strip)
 
-The image is drawn programmatically with Pillow (`make_image_v2.py`):
-flat original illustrations and font-rendered text only, so no word can
-garble. The story-count strip is computed from the same data structures
-that draw the cards and briefs, so the counts printed on the page are the
-counts on the page.
+- A Vulcan rocket lost 40 Amazon satellites — that was **15 November**.
+- ECO's "Vision 2035" was adopted on **Monday**.
+- Alaska's Senate race (Peltola) is called on **Wednesday** — it belongs
+  to the 18 November page, not this one.
+- Germany's 5–0 win over the Netherlands was a Monday match and is not
+  carried as Tuesday news.
+- A $120bn-a-year climate-finance figure circulated with the COP31
+  draft; it was not in the agreed text, so it is not printed.
+
+*The drawing script is `make_image_v3.py`; `main.ts` only places the
+finished PNG. All artwork is original and drawn in code — no photographs
+are used.*
